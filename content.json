@@ -148,7 +148,19 @@
           ],
           "iso": "2026-10-05"
         }
-      ]
+      ],
+      "shabbatTonight": {
+        "title": "Shabbat Tonight",
+        "subtitle": "Hoshana Rabbah • entering Shabbat • approaching Simchat Torah",
+        "reading": "This Shabbat stands at a threshold. We are finishing the annual Torah cycle and preparing to begin again with Bereshit. The Torah ends with Moses looking toward a future he will not personally enter, while Genesis immediately returns us to the words “In the beginning.” Jewish learning does not treat finishing as an ending. We complete the Torah and begin it again because familiar words can reveal something new when we return to them with new experience.",
+        "torah": "Read or recall Deuteronomy 34 alongside Genesis 1:1. Notice the movement from Moses’ final view of the Promised Land to the creation of the world.",
+        "questions": [
+          "Why do you think Jewish tradition moves so quickly from the end of Torah back to the beginning?",
+          "What is something you understand differently now than you did the last time you encountered it?"
+        ],
+        "hebrew": "Listen tonight for words you have been learning: Baruch • Eloheinu • Melech • ha-olam • lechem • ha-aretz.",
+        "closing": "As we enter Shabbat, carry one idea from the week with you: Jewish learning is cyclical. We return, reread and discover again."
+      }
     }
   ],
   "prayers": [
