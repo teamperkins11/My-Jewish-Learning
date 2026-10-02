@@ -1,44 +1,263 @@
 {
   "appTitle": "My Jewish Learning",
-  "week": {"label":"Week 0","dates":"Oct 1–5, 2026","theme":"Beginning again"},
-  "days": [
-    {"id":"thu","day":"Thursday","date":"Oct 1","focus":"Prayer & Spirituality","minutes":"Lunch 15–20 • Drive study","tasks":[
-      {"type":"study","title":"Blessing formula","detail":"Learn Baruch, Atah, Eloheinu, Melech, Ha-olam."},
-      {"type":"listen","title":"Soulful Jewish Living","detail":"Choose an episode on prayer, blessing, gratitude, Shabbat, or awareness.","url":"https://www.jewishspirituality.org/get-started/ijs-podcasts/"},
-      {"type":"listen","title":"Open My Heart","detail":"Prayer-focused listening for the drive home.","url":"https://www.jewishspirituality.org/go-deeper/prayer-project/open-my-heart/"}
-    ]},
-    {"id":"fri","day":"Friday","date":"Oct 2","focus":"Shabbat • Hoshana Rabbah • Simchat Torah","minutes":"Lunch 15–20 • Shabbat dinner","tasks":[
-      {"type":"study","title":"Hamotzi vocabulary","detail":"Lechem = bread • min = from • ha-aretz = the earth."},
-      {"type":"practice","title":"Use tonight’s table reading","detail":"Notice Baruch, Eloheinu, Melech, Ha-olam, Lechem and Ha-aretz."},
-      {"type":"reflect","title":"Table question","detail":"Why might Judaism place the end and beginning of Torah beside each other?"}
-    ]},
-    {"id":"sat","day":"Saturday","date":"Oct 3","focus":"Torah + Mishnah","minutes":"Game-day drive study","tasks":[
-      {"type":"listen","title":"Seven Minute Torah","detail":"Listen for the Torah cycle’s ending/beginning and carry one question into Sunday.","url":"https://sevenminutetorah.podbean.com/"},
-      {"type":"listen","title":"Aleph Beta","detail":"Listen to relevant Torah/holiday material.","url":"https://www.alephbeta.org/"},
-      {"type":"listen","title":"Hadar: Mishnah/Talmud","detail":"Listen to 2–3 short Mishnah lessons; focus on rabbinic reasoning.","url":"https://www.hadar.org/learn/talmud-hadar"}
-    ]},
-    {"id":"sun","day":"Sunday","date":"Oct 4","focus":"Beit Midrash","minutes":"45–60 minutes at home","tasks":[
-      {"type":"read","title":"Deuteronomy 34","detail":"Read the end of Moses’ story. Ask what is left unfinished.","url":"https://www.sefaria.org/Deuteronomy.34"},
-      {"type":"read","title":"Genesis 1:1","detail":"Move immediately from Torah’s ending to Bereshit.","url":"https://www.sefaria.org/Genesis.1.1"},
-      {"type":"read","title":"Rashi on Genesis 1:1","detail":"Ask: What problem does Rashi see, and why does he think Torah begins here?","url":"https://www.sefaria.org/Rashi_on_Genesis.1.1"},
-      {"type":"reflect","title":"Guiding question","detail":"What does Rashi think Torah is actually trying to teach us?"}
-    ]},
-    {"id":"mon","day":"Monday","date":"Oct 5","focus":"Hebrew + Siddur","minutes":"Lunch 15–20 • Home 45–60","tasks":[
-      {"type":"study","title":"First letters in familiar words","detail":"Recognize Alef, Bet/Vet, Mem, Lamed and Hey inside words you already use."},
-      {"type":"study","title":"Prayer-word recognition","detail":"Work inside Baruch, Melech, Olam, Lechem and Ha-aretz."},
-      {"type":"practice","title":"Find the Shema","detail":"Look at Hebrew → transliteration → direct translation in your siddur."}
-    ]}
+  "version": 2,
+  "weeks": [
+    {
+      "id": "week-0",
+      "current": true,
+      "label": "Week 0",
+      "dates": "Oct 1–5, 2026",
+      "theme": "Beginning again",
+      "shabbat": "Why might Judaism place the end and beginning of Torah beside each other?",
+      "days": [
+        {
+          "id": "thu",
+          "day": "Thursday",
+          "date": "Oct 1",
+          "focus": "Prayer & Spirituality",
+          "minutes": "Lunch 15–20 • Drive study",
+          "tasks": [
+            {
+              "type": "study",
+              "title": "Blessing formula",
+              "detail": "Learn Baruch, Atah, Eloheinu, Melech, Ha-olam."
+            },
+            {
+              "type": "listen",
+              "title": "Soulful Jewish Living",
+              "detail": "Choose an episode on prayer, blessing, gratitude, Shabbat, or awareness.",
+              "url": "https://www.jewishspirituality.org/get-started/ijs-podcasts/"
+            },
+            {
+              "type": "listen",
+              "title": "Open My Heart",
+              "detail": "Prayer-focused listening for the drive home.",
+              "url": "https://www.jewishspirituality.org/go-deeper/prayer-project/open-my-heart/"
+            }
+          ],
+          "iso": "2026-10-01"
+        },
+        {
+          "id": "fri",
+          "day": "Friday",
+          "date": "Oct 2",
+          "focus": "Shabbat • Hoshana Rabbah • Simchat Torah",
+          "minutes": "Lunch 15–20 • Shabbat dinner",
+          "tasks": [
+            {
+              "type": "study",
+              "title": "Hamotzi vocabulary",
+              "detail": "Lechem = bread • min = from • ha-aretz = the earth."
+            },
+            {
+              "type": "practice",
+              "title": "Use tonight’s table reading",
+              "detail": "Notice Baruch, Eloheinu, Melech, Ha-olam, Lechem and Ha-aretz."
+            },
+            {
+              "type": "reflect",
+              "title": "Table question",
+              "detail": "Why might Judaism place the end and beginning of Torah beside each other?"
+            }
+          ],
+          "iso": "2026-10-02"
+        },
+        {
+          "id": "sat",
+          "day": "Saturday",
+          "date": "Oct 3",
+          "focus": "Torah + Mishnah",
+          "minutes": "Game-day drive study",
+          "tasks": [
+            {
+              "type": "listen",
+              "title": "Seven Minute Torah",
+              "detail": "Listen for the Torah cycle’s ending/beginning and carry one question into Sunday.",
+              "url": "https://sevenminutetorah.podbean.com/"
+            },
+            {
+              "type": "listen",
+              "title": "Aleph Beta",
+              "detail": "Listen to relevant Torah/holiday material.",
+              "url": "https://www.alephbeta.org/"
+            },
+            {
+              "type": "listen",
+              "title": "Hadar: Mishnah/Talmud",
+              "detail": "Listen to 2–3 short Mishnah lessons; focus on rabbinic reasoning.",
+              "url": "https://www.hadar.org/learn/talmud-hadar"
+            }
+          ],
+          "iso": "2026-10-03"
+        },
+        {
+          "id": "sun",
+          "day": "Sunday",
+          "date": "Oct 4",
+          "focus": "Beit Midrash",
+          "minutes": "45–60 minutes at home",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Deuteronomy 34",
+              "detail": "Read the end of Moses’ story. Ask what is left unfinished.",
+              "url": "https://www.sefaria.org/Deuteronomy.34"
+            },
+            {
+              "type": "read",
+              "title": "Genesis 1:1",
+              "detail": "Move immediately from Torah’s ending to Bereshit.",
+              "url": "https://www.sefaria.org/Genesis.1.1"
+            },
+            {
+              "type": "read",
+              "title": "Rashi on Genesis 1:1",
+              "detail": "Ask: What problem does Rashi see, and why does he think Torah begins here?",
+              "url": "https://www.sefaria.org/Rashi_on_Genesis.1.1"
+            },
+            {
+              "type": "reflect",
+              "title": "Guiding question",
+              "detail": "What does Rashi think Torah is actually trying to teach us?"
+            }
+          ],
+          "iso": "2026-10-04"
+        },
+        {
+          "id": "mon",
+          "day": "Monday",
+          "date": "Oct 5",
+          "focus": "Hebrew + Siddur",
+          "minutes": "Lunch 15–20 • Home 45–60",
+          "tasks": [
+            {
+              "type": "study",
+              "title": "First letters in familiar words",
+              "detail": "Recognize Alef, Bet/Vet, Mem, Lamed and Hey inside words you already use."
+            },
+            {
+              "type": "study",
+              "title": "Prayer-word recognition",
+              "detail": "Work inside Baruch, Melech, Olam, Lechem and Ha-aretz."
+            },
+            {
+              "type": "practice",
+              "title": "Find the Shema",
+              "detail": "Look at Hebrew → transliteration → direct translation in your siddur."
+            }
+          ],
+          "iso": "2026-10-05"
+        }
+      ]
+    }
   ],
-  "prayers":[
-    {"title":"Blessing Formula","hebrew":"בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם","translit":"Baruch atah Adonai, Eloheinu melech ha-olam.","english":"Blessed are You, Adonai our God, Sovereign of the universe."},
-    {"title":"Hamotzi","hebrew":"בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם׃ הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ","translit":"Baruch atah Adonai, Eloheinu melech ha-olam; hamotzi lechem min ha-aretz.","english":"Blessed are You, Adonai our God, Sovereign of the universe, who brings forth bread from the earth."},
-    {"title":"Shema — Preview","hebrew":"שְׁמַע יִשְׂרָאֵל","translit":"Shema Yisrael.","english":"Hear, O Israel."}
+  "prayers": [
+    {
+      "title": "Blessing Formula",
+      "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם",
+      "translit": "Baruch atah Adonai, Eloheinu melech ha-olam.",
+      "english": "Blessed are You, Adonai our God, Sovereign of the universe.",
+      "words": "Baruch = blessed • Atah = You • Eloheinu = our God • Melech = sovereign/king • Ha-olam = the universe/world"
+    },
+    {
+      "title": "Hamotzi",
+      "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם׃ הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ",
+      "translit": "Baruch atah Adonai, Eloheinu melech ha-olam; hamotzi lechem min ha-aretz.",
+      "english": "Blessed are You, Adonai our God, Sovereign of the universe, who brings forth bread from the earth.",
+      "words": "Lechem = bread • Min = from • Ha-aretz = the earth"
+    },
+    {
+      "title": "Shema — Preview",
+      "hebrew": "שְׁמַע יִשְׂרָאֵל",
+      "translit": "Shema Yisrael.",
+      "english": "Hear, O Israel.",
+      "words": "Shema = hear/listen • Yisrael = Israel"
+    }
   ],
-  "library":[
-    {"title":"Sefaria","kind":"Jewish Text Library","url":"https://www.sefaria.org/"},
-    {"title":"Seven Minute Torah","kind":"Podcast","url":"https://sevenminutetorah.podbean.com/"},
-    {"title":"Aleph Beta","kind":"Torah learning","url":"https://www.alephbeta.org/"},
-    {"title":"Hadar","kind":"Mishnah & Talmud","url":"https://www.hadar.org/learn/talmud-hadar"},
-    {"title":"Institute for Jewish Spirituality","kind":"Prayer & spirituality","url":"https://www.jewishspirituality.org/get-started/ijs-podcasts/"}
+  "learning": [
+    {
+      "title": "Torah & Commentary",
+      "description": "Start with the text, notice the problem, then ask what the commentator is trying to explain.",
+      "items": [
+        {
+          "kind": "Torah",
+          "title": "Genesis 1:1",
+          "detail": "Read Bereshit slowly. What questions arise before consulting commentary?",
+          "url": "https://www.sefaria.org/Genesis.1.1"
+        },
+        {
+          "kind": "Rashi",
+          "title": "Rashi on Genesis 1:1",
+          "detail": "Ask the recurring question: What problem did Rashi see that required explanation?",
+          "url": "https://www.sefaria.org/Rashi_on_Genesis.1.1"
+        },
+        {
+          "kind": "Torah",
+          "title": "Deuteronomy 34",
+          "detail": "Read Torah’s ending beside its beginning. Notice what Moses leaves unfinished.",
+          "url": "https://www.sefaria.org/Deuteronomy.34"
+        }
+      ]
+    },
+    {
+      "title": "Mishnah & Talmud",
+      "description": "Learn in small units and focus on how rabbinic reasoning works.",
+      "items": [
+        {
+          "kind": "Mishnah",
+          "title": "Pirkei Avot",
+          "detail": "A welcoming entry into Mishnah: short teachings that reward slow reading and discussion.",
+          "url": "https://www.sefaria.org/Pirkei_Avot"
+        },
+        {
+          "kind": "Method",
+          "title": "How to read an argument",
+          "detail": "Identify the claim, question, disagreement, evidence, counterexample and resolution. The goal is to follow the reasoning, not rush to an answer."
+        }
+      ]
+    },
+    {
+      "title": "Spiritual Practice",
+      "description": "Connect study to prayer, Shabbat and ordinary life.",
+      "items": [
+        {
+          "kind": "Practice",
+          "title": "Blessing awareness",
+          "detail": "When you encounter a blessing, notice the repeated formula before focusing on the words that make this blessing unique."
+        },
+        {
+          "kind": "Practice",
+          "title": "Shabbat reflection",
+          "detail": "Carry one question from the week to the Friday table instead of trying to summarize everything you learned."
+        }
+      ]
+    }
+  ],
+  "library": [
+    {
+      "title": "Sefaria",
+      "kind": "Jewish Text Library",
+      "url": "https://www.sefaria.org/"
+    },
+    {
+      "title": "Seven Minute Torah",
+      "kind": "Podcast",
+      "url": "https://sevenminutetorah.podbean.com/"
+    },
+    {
+      "title": "Aleph Beta",
+      "kind": "Torah learning",
+      "url": "https://www.alephbeta.org/"
+    },
+    {
+      "title": "Hadar",
+      "kind": "Mishnah & Talmud",
+      "url": "https://www.hadar.org/learn/talmud-hadar"
+    },
+    {
+      "title": "Institute for Jewish Spirituality",
+      "kind": "Prayer & spirituality",
+      "url": "https://www.jewishspirituality.org/get-started/ijs-podcasts/"
+    }
   ]
 }
