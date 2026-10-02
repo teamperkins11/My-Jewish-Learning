@@ -1,0 +1,8 @@
+{
+  "name": "My Jewish Learning",
+  "short_name": "Jewish Learning",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf5",
+  "theme_color": "#153f46"
+}
