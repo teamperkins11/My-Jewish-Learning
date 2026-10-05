@@ -219,6 +219,13 @@
               "detail": "Work with Shema = hear/listen and Yisrael = Israel. Say the opening slowly several times: Shema Yisrael, Adonai Eloheinu, Adonai Echad."
             },
             {
+              "type": "listen",
+              "title": "Tuesday Drive — The Nighttime Shema",
+              "detail": "7 min • Rabbi Denise Eger shares a simple, personal practice of reciting the Shema at bedtime. Listen once, then replay it or spend the rest of the drive repeating Shema Yisrael slowly and thinking about what it means to truly listen.",
+              "url": "https://podcasts.apple.com/us/podcast/the-nighttime-shema/id1542085651?i=1000525997385",
+              "platform": "Apple Podcasts"
+            },
+            {
               "type": "practice",
               "title": "Connect familiar words",
               "detail": "Notice Eloheinu from the blessing formula inside the Shema. The goal is recognition, not memorizing every letter yet."
@@ -241,14 +248,15 @@
             },
             {
               "type": "listen",
-              "title": "Hadar — Five-Minute Mishnah",
-              "detail": "Use Hadar’s short Mishnah learning rather than searching for a podcast. Listen to one lesson and identify the question or disagreement the rabbis are working through.",
-              "url": "https://www.hadar.org/learn/talmud-hadar"
+              "title": "Wednesday Drive — Ta Shma (Hadar)",
+              "detail": "Use Hadar’s actual Apple Podcasts feed, Ta Shma. This is their beit midrash podcast with lectures and Torah learning. Choose the assigned episode shown in Apple Podcasts; we’ll use it for rabbinic reasoning rather than the unavailable Five-Minute Mishnah.",
+              "url": "https://podcasts.apple.com/us/podcast/ta-shma/id273916368",
+              "platform": "Apple Podcasts"
             },
             {
               "type": "reflect",
-              "title": "Listen for the argument",
-              "detail": "Ask: What is the claim? What problem is the Mishnah trying to solve? You do not need to remember every detail."
+              "title": "Listen for rabbinic reasoning",
+              "detail": "As you listen, identify one textual question, one interpretation, and one idea you would want to discuss with someone else."
             }
           ]
         },
