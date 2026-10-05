@@ -270,6 +270,12 @@
           "tasks": [
             {
               "type": "read",
+              "title": "Weekly Rabbi Sacks — The Blame Game",
+              "detail": "Covenant & Conversation Family Edition • Bereishit 5787. Read Rabbi Sacks’ teaching on Adam and Chava, blame, mistakes, family tension and the responsibility to be honest when we fail. Use the discussion questions at the end as your reflection.",
+              "url": "https://rabbisacks.org/covenant-conversation-family-edition/bereishit/the-blame-game-bereishit-5787/"
+            },
+            {
+              "type": "read",
               "title": "Lunch Study — Why Shabbat has two meanings",
               "detail": "15–20 min • Read how Torah connects Shabbat both to Creation and to liberation from Egypt. Ask why Judaism makes rest both a spiritual idea and a question of human freedom.",
               "url": "https://www.myjewishlearning.com/article/shabbat-themes-and-theology/"
@@ -398,7 +404,12 @@
             }
           ]
         }
-      ]
+      ],
+      "rabbiSacks": {
+        "title": "The Blame Game",
+        "parsha": "Bereishit 5787",
+        "url": "https://rabbisacks.org/covenant-conversation-family-edition/bereishit/the-blame-game-bereishit-5787/"
+      }
     }
   ],
   "prayers": [
