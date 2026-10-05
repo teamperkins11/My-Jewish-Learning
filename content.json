@@ -4,7 +4,7 @@
   "weeks": [
     {
       "id": "week-0",
-      "current": true,
+      "current": false,
       "label": "Week 0",
       "dates": "Oct 1–5, 2026",
       "theme": "Beginning again",
@@ -60,7 +60,8 @@
               "detail": "Why might Judaism place the end and beginning of Torah beside each other?"
             }
           ],
-          "iso": "2026-10-02"
+          "iso": "2026-10-02",
+          "guidePdf": "Shabbat_Table_Reading_Two_Column_Final%20(1).pdf"
         },
         {
           "id": "sat",
@@ -161,6 +162,186 @@
         "hebrew": "Listen tonight for words you have been learning: Baruch • Eloheinu • Melech • ha-olam • lechem • ha-aretz.",
         "closing": "As we enter Shabbat, carry one idea from the week with you: Jewish learning is cyclical. We return, reread and discover again."
       }
+    },
+    {
+      "id": "week-1",
+      "current": true,
+      "label": "Week 1",
+      "dates": "Oct 5–12, 2026",
+      "theme": "Bereshit — What does it mean to be responsible?",
+      "shabbat": "Cain asks, “Am I my brother’s keeper?” What answer does the rest of Torah seem to give?",
+      "days": [
+        {
+          "id": "mon",
+          "day": "Monday",
+          "date": "Oct 5",
+          "iso": "2026-10-05",
+          "focus": "Bereshit • Drive Study",
+          "minutes": "Practice drive • 15–20 min",
+          "tasks": [
+            {
+              "type": "listen",
+              "title": "Seven Minute Torah — Yes, You Are Your Brother’s Keeper",
+              "detail": "Listen to Rabbi Micah Streiffer on Cain’s question. Carry one idea with you: what responsibility do we have for another person?",
+              "url": "https://sevenminutetorah.podbean.com/e/yes-you-are-your-brothers-keeper-bereshit/"
+            },
+            {
+              "type": "reflect",
+              "title": "One-sentence takeaway",
+              "detail": "After the drive, finish this sentence: “Being my brother’s keeper means…”"
+            }
+          ]
+        },
+        {
+          "id": "tue",
+          "day": "Tuesday",
+          "date": "Oct 6",
+          "iso": "2026-10-06",
+          "focus": "Prayer Hebrew • Shema",
+          "minutes": "Practice drive • 15–20 min",
+          "tasks": [
+            {
+              "type": "study",
+              "title": "Shema: listen before reading",
+              "detail": "Work with Shema = hear/listen and Yisrael = Israel. Say the opening slowly several times: Shema Yisrael, Adonai Eloheinu, Adonai Echad."
+            },
+            {
+              "type": "practice",
+              "title": "Connect familiar words",
+              "detail": "Notice Eloheinu from the blessing formula inside the Shema. The goal is recognition, not memorizing every letter yet."
+            }
+          ]
+        },
+        {
+          "id": "wed",
+          "day": "Wednesday",
+          "date": "Oct 7",
+          "iso": "2026-10-07",
+          "focus": "Mishnah • Rabbinic Reasoning",
+          "minutes": "Practice drive • short audio + reflection",
+          "tasks": [
+            {
+              "type": "listen",
+              "title": "Hadar — Five-Minute Mishnah",
+              "detail": "Use Hadar’s short Mishnah learning rather than searching for a podcast. Listen to one lesson and identify the question or disagreement the rabbis are working through.",
+              "url": "https://www.hadar.org/learn/talmud-hadar"
+            },
+            {
+              "type": "reflect",
+              "title": "Listen for the argument",
+              "detail": "Ask: What is the claim? What problem is the Mishnah trying to solve? You do not need to remember every detail."
+            }
+          ]
+        },
+        {
+          "id": "thu",
+          "day": "Thursday",
+          "date": "Oct 8",
+          "iso": "2026-10-08",
+          "focus": "Torah • Creation",
+          "minutes": "15–25 min at home",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Genesis 1:1–2:3",
+              "detail": "Read the first creation account. Look for repeated words and patterns rather than trying to master the whole chapter.",
+              "url": "https://www.sefaria.org/Genesis.1.1-2.3"
+            },
+            {
+              "type": "reflect",
+              "title": "Peshat question",
+              "detail": "What does the structure of the seven days suggest the text wants you to notice about creation, order and rest?"
+            }
+          ]
+        },
+        {
+          "id": "fri",
+          "day": "Friday",
+          "date": "Oct 9",
+          "iso": "2026-10-09",
+          "focus": "Shabbat • Travel Mode",
+          "minutes": "Out of town • 10–15 min",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Bereshit in one idea",
+              "detail": "This Shabbat begins the Torah cycle with creation, human choice, Cain and Abel, and the first questions about responsibility.",
+              "url": "https://www.sefaria.org/Genesis.1.1-6.8"
+            },
+            {
+              "type": "practice",
+              "title": "Simple Shabbat intention",
+              "detail": "No full study session required while traveling. Before Shabbat, say the Shema slowly and notice Shema, Yisrael and Eloheinu."
+            },
+            {
+              "type": "reflect",
+              "title": "Shabbat question",
+              "detail": "Cain asks, “Am I my brother’s keeper?” What answer do you think Torah wants us to give?"
+            }
+          ]
+        },
+        {
+          "id": "sat",
+          "day": "Saturday",
+          "date": "Oct 10",
+          "iso": "2026-10-10",
+          "focus": "Shabbat Bereshit",
+          "minutes": "Out of town • optional 15 min",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Cain and Abel — Genesis 4:1–16",
+              "detail": "Read only this focused section if you have time. Notice what God asks Cain before and after Abel’s death.",
+              "url": "https://www.sefaria.org/Genesis.4.1-16"
+            },
+            {
+              "type": "reflect",
+              "title": "Return to Monday’s podcast",
+              "detail": "Does the Torah itself answer Cain’s question directly, or does it make the reader responsible for answering it?"
+            }
+          ]
+        },
+        {
+          "id": "sun",
+          "day": "Sunday",
+          "date": "Oct 11",
+          "iso": "2026-10-11",
+          "focus": "Rosh Chodesh Cheshvan • Renewal",
+          "minutes": "Out of town • 5–10 min",
+          "tasks": [
+            {
+              "type": "reflect",
+              "title": "Beginning Cheshvan",
+              "detail": "Rosh Chodesh marks the beginning of a new Hebrew month. Cheshvan follows the festival-heavy month of Tishrei; consider what practice you want to carry from the holidays into ordinary time."
+            },
+            {
+              "type": "practice",
+              "title": "One intention",
+              "detail": "Choose one small Jewish practice to continue this month: a blessing, Shema, weekly Torah, or a Shabbat question."
+            }
+          ]
+        },
+        {
+          "id": "mon2",
+          "day": "Monday",
+          "date": "Oct 12",
+          "iso": "2026-10-12",
+          "focus": "Rosh Chodesh Cheshvan • Travel Return",
+          "minutes": "Out of town / return • light review",
+          "tasks": [
+            {
+              "type": "study",
+              "title": "Hebrew recognition review",
+              "detail": "Without adding new vocabulary, review Baruch, Atah, Eloheinu, Melech, ha-olam, Shema and Yisrael."
+            },
+            {
+              "type": "reflect",
+              "title": "Close the week",
+              "detail": "Which idea stayed with you most: creation, rest, human choice, responsibility, or beginning again?"
+            }
+          ]
+        }
+      ]
     }
   ],
   "prayers": [
