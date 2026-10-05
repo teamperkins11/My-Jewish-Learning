@@ -180,6 +180,12 @@
           "minutes": "Practice drive • 15–20 min",
           "tasks": [
             {
+              "type": "read",
+              "title": "Lunch Study — What is kavanah?",
+              "detail": "15–20 min • Read about kavanah, the Jewish idea of intention in prayer and mitzvot. Ask: What changes when I understand the words I am saying rather than simply reciting them?",
+              "url": "https://www.myjewishlearning.com/article/kavvanah-intention/"
+            },
+            {
               "type": "listen",
               "title": "Seven Minute Torah — Yes, You Are Your Brother’s Keeper",
               "detail": "Listen to Rabbi Micah Streiffer on Cain’s question. Carry one idea with you: what responsibility do we have for another person?",
@@ -202,6 +208,12 @@
           "minutes": "Practice drive • 15–20 min",
           "tasks": [
             {
+              "type": "read",
+              "title": "Lunch Study — Bereshit: creation and human purpose",
+              "detail": "15–20 min • Read Genesis 1:1–2:3 slowly. Notice repetition: God sees, separates, names, blesses and rests. Ask what kind of world this structure describes.",
+              "url": "https://www.sefaria.org/Genesis.1.1-2.3"
+            },
+            {
               "type": "study",
               "title": "Shema: listen before reading",
               "detail": "Work with Shema = hear/listen and Yisrael = Israel. Say the opening slowly several times: Shema Yisrael, Adonai Eloheinu, Adonai Echad."
@@ -221,6 +233,12 @@
           "focus": "Mishnah • Rabbinic Reasoning",
           "minutes": "Practice drive • short audio + reflection",
           "tasks": [
+            {
+              "type": "read",
+              "title": "Lunch Study — Pirkei Avot 1:2",
+              "detail": "15–20 min • Read the Mishnah that says the world stands on Torah, divine service, and acts of lovingkindness. Consider which of the three is strongest in your Jewish life right now and which needs growth.",
+              "url": "https://www.sefaria.org/Pirkei_Avot.1.2"
+            },
             {
               "type": "listen",
               "title": "Hadar — Five-Minute Mishnah",
@@ -244,6 +262,12 @@
           "tasks": [
             {
               "type": "read",
+              "title": "Lunch Study — Why Shabbat has two meanings",
+              "detail": "15–20 min • Read how Torah connects Shabbat both to Creation and to liberation from Egypt. Ask why Judaism makes rest both a spiritual idea and a question of human freedom.",
+              "url": "https://www.myjewishlearning.com/article/shabbat-themes-and-theology/"
+            },
+            {
+              "type": "read",
               "title": "Genesis 1:1–2:3",
               "detail": "Read the first creation account. Look for repeated words and patterns rather than trying to master the whole chapter.",
               "url": "https://www.sefaria.org/Genesis.1.1-2.3"
@@ -263,6 +287,12 @@
           "focus": "Shabbat • Travel Mode",
           "minutes": "Out of town • 10–15 min",
           "tasks": [
+            {
+              "type": "read",
+              "title": "Lunch Study — Shabbat as a sanctuary in time",
+              "detail": "15–20 min • Read Abraham Joshua Heschel’s idea that Judaism sanctifies time, not only places. While traveling, ask what it could mean to create sacred time without being at home.",
+              "url": "https://www.myjewishlearning.com/article/shabbat-as-a-sanctuary-in-time/"
+            },
             {
               "type": "read",
               "title": "Bereshit in one idea",
@@ -291,6 +321,12 @@
           "tasks": [
             {
               "type": "read",
+              "title": "Lunch Study — Cain and responsibility",
+              "detail": "Optional travel reading • Read Genesis 4:1–16 and focus on God’s questions to Cain: “Where is your brother?” and Cain’s response. Connect it to Monday’s Seven Minute Torah episode.",
+              "url": "https://www.sefaria.org/Genesis.4.1-16"
+            },
+            {
+              "type": "read",
               "title": "Cain and Abel — Genesis 4:1–16",
               "detail": "Read only this focused section if you have time. Notice what God asks Cain before and after Abel’s death.",
               "url": "https://www.sefaria.org/Genesis.4.1-16"
@@ -311,6 +347,12 @@
           "minutes": "Out of town • 5–10 min",
           "tasks": [
             {
+              "type": "read",
+              "title": "Lunch Study — Rest and renewal",
+              "detail": "Optional travel reading • Read about menuchah as more than inactivity: Shabbat rest as peace, wholeness and a different relationship with the created world.",
+              "url": "https://www.myjewishlearning.com/article/shabbat-rest-and-renewal/"
+            },
+            {
               "type": "reflect",
               "title": "Beginning Cheshvan",
               "detail": "Rosh Chodesh marks the beginning of a new Hebrew month. Cheshvan follows the festival-heavy month of Tishrei; consider what practice you want to carry from the holidays into ordinary time."
@@ -330,6 +372,12 @@
           "focus": "Rosh Chodesh Cheshvan • Travel Return",
           "minutes": "Out of town / return • light review",
           "tasks": [
+            {
+              "type": "read",
+              "title": "Lunch Study — Prayer 101",
+              "detail": "15–20 min • Read an overview of Jewish prayer as both communication with God and connection with the Jewish people. Notice the balance between fixed liturgy and personal meaning.",
+              "url": "https://www.myjewishlearning.com/article/prayer-101/"
+            },
             {
               "type": "study",
               "title": "Hebrew recognition review",
