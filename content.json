@@ -165,7 +165,7 @@
     },
     {
       "id": "week-1",
-      "current": true,
+      "current": false,
       "label": "Week 1",
       "dates": "Oct 5–12, 2026",
       "theme": "Bereshit — What does it mean to be responsible?",
@@ -410,6 +410,211 @@
         "parsha": "Bereishit 5787",
         "url": "https://rabbisacks.org/covenant-conversation-family-edition/bereishit/the-blame-game-bereishit-5787/"
       }
+    },
+    {
+      "id": "week-2",
+      "current": true,
+      "label": "Week 2",
+      "dates": "Oct 13–19, 2026",
+      "theme": "Noach — From personal responsibility to moral courage",
+      "description": "A manageable catch-up week: carry forward key Bereishit lessons, then explore Noach and what it means to speak up.",
+      "rabbiSacks": {
+        "title": "Taking a Stand",
+        "parsha": "Noach 5787",
+        "url": "https://rabbisacks.org/covenant-conversation-family-edition/noach/taking-a-stand/"
+      },
+      "days": [
+        {
+          "id": "tue",
+          "day": "Tuesday",
+          "date": "Oct 13",
+          "iso": "2026-10-13",
+          "focus": "Catch up: responsibility, not perfection",
+          "minutes": "20 min + optional drive",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Carryover — Rabbi Sacks: The Blame Game (Bereishit 5787)",
+              "detail": "15 min • Missed weekend priority. Read the current-year Family Edition; reflect on one situation where an explanation became an excuse.",
+              "url": "https://rabbisacks.org/covenant-conversation-family-edition/bereishit/the-blame-game-5787/"
+            },
+            {
+              "type": "read",
+              "title": "Carryover — Cain and Abel (Genesis 4:1–16)",
+              "detail": "5–10 min optional • Focus on 'Am I my brother's keeper?' Skip if time is short.",
+              "url": "https://www.sefaria.org/Genesis.4.1-16"
+            },
+            {
+              "type": "practice",
+              "title": "Hebrew — Shema and blessing formula",
+              "detail": "5 min • Recognize Shema Yisrael, Baruch atah Adonai and Eloheinu; say each aloud."
+            },
+            {
+              "type": "reflect",
+              "title": "Question",
+              "detail": "What is the difference between giving context and avoiding responsibility?"
+            }
+          ]
+        },
+        {
+          "id": "wed",
+          "day": "Wednesday",
+          "date": "Oct 14",
+          "iso": "2026-10-14",
+          "focus": "Noach: what makes a righteous person?",
+          "minutes": "15–20 min + optional drive",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Lunch Study — Noach: righteousness in his generation",
+              "detail": "15–20 min • Read Genesis 6:9–22 and identify what the Torah praises about Noach.",
+              "url": "https://www.sefaria.org/Genesis.6.9-22"
+            },
+            {
+              "type": "read",
+              "title": "Rashi on Genesis 6:9",
+              "detail": "5 min optional • Compare two ways to interpret 'in his generation'.",
+              "url": "https://www.sefaria.org/Rashi_on_Genesis.6.9"
+            },
+            {
+              "type": "practice",
+              "title": "Hebrew — Noach / tzaddik",
+              "detail": "5 min • נֹחַ (Noach, Noah) and צַדִּיק (tzaddik, righteous person)."
+            },
+            {
+              "type": "reflect",
+              "title": "Question",
+              "detail": "Is it enough to behave well yourself when others around you are doing harm?"
+            }
+          ]
+        },
+        {
+          "id": "thu",
+          "day": "Thursday",
+          "date": "Oct 15",
+          "iso": "2026-10-15",
+          "focus": "From personal goodness to moral courage",
+          "minutes": "15–20 min",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Weekly Rabbi Sacks — Taking a Stand (Noach 5787)",
+              "detail": "15–20 min • This year's Family Edition. Consider when a good person must speak up for others.",
+              "url": "https://rabbisacks.org/covenant-conversation-family-edition/noach/taking-a-stand/"
+            },
+            {
+              "type": "read",
+              "title": "Optional deeper essay — A Story of Heaven and Earth",
+              "detail": "Optional • Rabbi Sacks' featured 5787 Covenant & Conversation essay, on the Tower of Babel and society.",
+              "url": "https://rabbisacks.org/covenant-conversation/noach/a-story-of-heaven-and-earth/embed/"
+            },
+            {
+              "type": "practice",
+              "title": "Hebrew — Shabbat blessing review",
+              "detail": "5 min • Read the first line of Kiddush or Hamotzi aloud."
+            },
+            {
+              "type": "reflect",
+              "title": "Question",
+              "detail": "When does staying silent become a choice with moral consequences?"
+            }
+          ]
+        },
+        {
+          "id": "fri",
+          "day": "Friday",
+          "date": "Oct 16",
+          "iso": "2026-10-16",
+          "focus": "Prepare for Shabbat Noach",
+          "minutes": "15–20 min",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Lunch Study — The rainbow covenant",
+              "detail": "15 min • Read Genesis 9:8–17; notice who is included in God's covenant.",
+              "url": "https://www.sefaria.org/Genesis.9.8-17"
+            },
+            {
+              "type": "practice",
+              "title": "Shabbat preparation — candles, Kiddush, Hamotzi",
+              "detail": "5 min • Practice the familiar blessings; use the existing full table guide for prayer text."
+            },
+            {
+              "type": "reflect",
+              "title": "Shabbat table question",
+              "detail": "How can our family move from being good individually to helping others?"
+            }
+          ]
+        },
+        {
+          "id": "sat",
+          "day": "Saturday",
+          "date": "Oct 17",
+          "iso": "2026-10-17",
+          "focus": "Shabbat Noach",
+          "minutes": "Optional 10–15 min",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Torah portion — Noach (Genesis 6:9–11:32)",
+              "detail": "Optional • Read selected passages or explore the full portion.",
+              "url": "https://www.sefaria.org/Genesis.6.9-11.32"
+            },
+            {
+              "type": "reflect",
+              "title": "Shabbat reflection",
+              "detail": "What would it mean to take a stand kindly, rather than self-righteously?"
+            }
+          ]
+        },
+        {
+          "id": "sun",
+          "day": "Sunday",
+          "date": "Oct 18",
+          "iso": "2026-10-18",
+          "focus": "Rest and review",
+          "minutes": "Optional 10–15 min",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Pirkei Avot 1:2 — what sustains the world?",
+              "detail": "10 min • Revisit this missed rabbinic text: Torah, service, and acts of kindness.",
+              "url": "https://www.sefaria.org/Pirkei_Avot.1.2"
+            },
+            {
+              "type": "reflect",
+              "title": "Review",
+              "detail": "Recall one idea from Bereishit and one from Noach. No need to complete every missed assignment."
+            }
+          ]
+        },
+        {
+          "id": "mon",
+          "day": "Monday",
+          "date": "Oct 19",
+          "iso": "2026-10-19",
+          "focus": "Consolidate and look ahead",
+          "minutes": "15–20 min",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Lunch Study — Tower of Babel",
+              "detail": "15–20 min • Read Genesis 11:1–9 and ask what goes wrong when human ambition loses humility.",
+              "url": "https://www.sefaria.org/Genesis.11.1-9"
+            },
+            {
+              "type": "practice",
+              "title": "Hebrew review — Shema, Hamotzi, Noach, tzaddik",
+              "detail": "5 min • Recognize or pronounce each without looking at transliteration first."
+            },
+            {
+              "type": "reflect",
+              "title": "Weekly takeaway",
+              "detail": "How did the week's learning change your understanding of responsibility?"
+            }
+          ]
+        }
+      ]
     }
   ],
   "prayers": [
