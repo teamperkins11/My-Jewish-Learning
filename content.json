@@ -485,6 +485,13 @@
               "type": "reflect",
               "title": "Question",
               "detail": "Is it enough to behave well yourself when others around you are doing harm?"
+            },
+            {
+              "type": "listen",
+              "title": "Wednesday Drive — Noach discussion podcast",
+              "detail": "Listen in the car • Brisk podcast for today's Noach learning and reflection.",
+              "url": "https://app.briskteaching.com/student_podcast/yakksvpj2l",
+              "platform": "Brisk"
             }
           ]
         },
