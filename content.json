@@ -537,6 +537,18 @@
           "tasks": [
             {
               "type": "read",
+              "title": "Lunch Study — History and Development of Shabbat",
+              "detail": "15–20 min • My Jewish Learning: trace Shabbat from the Torah through rabbinic law, Kiddush, medieval poetry, and modern Jewish practice.",
+              "url": "https://www.myjewishlearning.com/article/history-and-development-of-shabbat/"
+            },
+            {
+              "type": "read",
+              "title": "This Week's Torah — Noach (Genesis 6:9–11:32)",
+              "detail": "15–20 min • Read the weekly portion, focusing on Noah's righteousness, his silence, and God's covenant. If short on time, focus on Genesis 6:9–22 and 9:8–17.",
+              "url": "https://www.sefaria.org/Genesis.6.9-11.32"
+            },
+            {
+              "type": "read",
               "title": "Lunch Study — The rainbow covenant",
               "detail": "15 min • Read Genesis 9:8–17; notice who is included in God's covenant.",
               "url": "https://www.sefaria.org/Genesis.9.8-17"
