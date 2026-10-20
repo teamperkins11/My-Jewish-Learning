@@ -413,7 +413,7 @@
     },
     {
       "id": "week-2",
-      "current": true,
+      "current": false,
       "label": "Week 2",
       "dates": "Oct 13–19, 2026",
       "theme": "Noach — From personal responsibility to moral courage",
@@ -630,6 +630,181 @@
               "type": "reflect",
               "title": "Weekly takeaway",
               "detail": "How did the week's learning change your understanding of responsibility?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "week-3-lech-lecha-5787",
+      "current": true,
+      "label": "Week 3 — Lech Lecha",
+      "dates": "October 20–26, 2026",
+      "theme": "From Noah's righteousness to Abraham's courage",
+      "description": "Daily Torah and ethical readings, current-year Rabbi Sacks 5787, a direct Apple Podcasts episode, and a printable Friday-night table guide.",
+      "rabbiSacks": {
+        "title": "The Constant Journey (5787 Family Edition)",
+        "url": "https://rabbisacks.org/covenant-conversation-family-edition/lech-lecha/the-constant-journey/"
+      },
+      "days": [
+        {
+          "id": "lech-2026-10-20",
+          "day": "Tuesday",
+          "date": "10/20",
+          "iso": "2026-10-20",
+          "focus": "The call to begin again",
+          "minutes": "15–20",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Torah — Genesis 12:1–9: Leave the familiar",
+              "detail": "15–20 min • Trace the three things Abram leaves behind. What does it cost to follow a calling without knowing the destination?",
+              "url": "https://www.sefaria.org/Genesis.12.1-9"
+            },
+            {
+              "type": "listen",
+              "title": "Drive — Rabbi Sacks: The Courage Not to Conform",
+              "detail": "9 min • Direct Apple Podcasts episode; consider how Abraham differs from Noah.",
+              "url": "https://podcasts.apple.com/us/podcast/lech-lecha-5781-the-courage-not-to-conform/id796183168?i=1000496237298",
+              "platform": "Apple Podcasts"
+            }
+          ]
+        },
+        {
+          "id": "lech-2026-10-21",
+          "day": "Wednesday",
+          "date": "10/21",
+          "iso": "2026-10-21",
+          "focus": "Courage, fear, and ethical growth",
+          "minutes": "15–20",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Rabbi Sacks — Four Dimensions of the Journey",
+              "detail": "15–20 min • Explore how leaving familiar surroundings can be a journey toward one's moral self.",
+              "url": "https://rabbisacks.org/covenant-conversation-family-edition/lech-lecha/four-dimensions-of-the-journey/"
+            },
+            {
+              "type": "read",
+              "title": "Torah — Genesis 12:10–20: Sarai in Egypt",
+              "detail": "Reflect on Abram's fear and Sarai's vulnerability. Do not treat the patriarchs as morally flawless.",
+              "url": "https://www.sefaria.org/Genesis.12.10-20"
+            }
+          ]
+        },
+        {
+          "id": "lech-2026-10-22",
+          "day": "Thursday",
+          "date": "10/22",
+          "iso": "2026-10-22",
+          "focus": "Family, covenant, and responsibility",
+          "minutes": "15–20",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Rabbi Sacks 5787 Family Edition — The Constant Journey",
+              "detail": "Priority 15–20 min • This year's Lech Lecha Family Edition. Connect uncertainty, Jewish resilience, and the responsibility to speak up against antisemitism.",
+              "url": "https://rabbisacks.org/covenant-conversation-family-edition/lech-lecha/the-constant-journey/"
+            },
+            {
+              "type": "read",
+              "title": "Torah — Genesis 13:5–18: Conflict with Lot",
+              "detail": "Notice Abram's peaceful resolution of conflict and the responsibilities of family and leadership.",
+              "url": "https://www.sefaria.org/Genesis.13.5-18"
+            }
+          ]
+        },
+        {
+          "id": "lech-2026-10-23",
+          "day": "Friday",
+          "date": "10/23",
+          "iso": "2026-10-23",
+          "focus": "Preparing a Shabbat of courage and blessing",
+          "minutes": "15–20",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Rabbi Sacks 5787 — The Heroism of Ordinary Life",
+              "detail": "15–20 min • Read the current-year main essay about Abraham and the extraordinary power of ordinary moral choices.",
+              "url": "https://rabbisacks.org/covenant-conversation/lech-lecha/the-heroism-of-ordinary-life/1000/"
+            },
+            {
+              "type": "read",
+              "title": "Friday Dinner — Lech Lecha Shabbat Table Guide (PDF)",
+              "detail": "Open or print the two-page front-and-back guide: traditional blessings, full Shalom Aleichem, Kiddush, Hamotzi, expanded Noah-to-Abraham commentary and family questions.",
+              "url": "https://teamperkins11.github.io/My-Jewish-Learning/Lech_Lecha_Shabbat_Table_Guide_5787.pdf"
+            },
+            {
+              "type": "read",
+              "title": "Torah — Genesis 12:1–3: Become a blessing",
+              "detail": "Discuss: how can our family be a source of blessing beyond our own home?",
+              "url": "https://www.sefaria.org/Genesis.12.1-3"
+            }
+          ]
+        },
+        {
+          "id": "lech-2026-10-24",
+          "day": "Saturday",
+          "date": "10/24",
+          "iso": "2026-10-24",
+          "focus": "Shabbat Lech Lecha",
+          "minutes": "15–20",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Weekly Torah — Lech Lecha (Genesis 12:1–17:27)",
+              "detail": "Read selected passages or the full parashah. Focus on journey, Sarai, Lot, Hagar, Ishmael, and covenant.",
+              "url": "https://www.sefaria.org/Genesis.12.1-17.27"
+            },
+            {
+              "type": "read",
+              "title": "Shabbat reflection — Genesis 15:1–6",
+              "detail": "God tells Abram not to fear; explore trust in the face of uncertainty.",
+              "url": "https://www.sefaria.org/Genesis.15.1-6"
+            }
+          ]
+        },
+        {
+          "id": "lech-2026-10-25",
+          "day": "Sunday",
+          "date": "10/25",
+          "iso": "2026-10-25",
+          "focus": "The people left out of the heroic narrative",
+          "minutes": "15–20",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Torah — Genesis 16:1–16: Hagar and Ishmael",
+              "detail": "15–20 min • Read Hagar's experience as a person with her own voice and suffering. What does the story ask us to notice about power?",
+              "url": "https://www.sefaria.org/Genesis.16.1-16"
+            },
+            {
+              "type": "read",
+              "title": "Reform Torah commentary — Lech Lecha",
+              "detail": "Consider contemporary Jewish interpretations of Abraham and Sarah's family.",
+              "url": "https://reformjudaism.org/learning/torah-study"
+            }
+          ]
+        },
+        {
+          "id": "lech-2026-10-26",
+          "day": "Monday",
+          "date": "10/26",
+          "iso": "2026-10-26",
+          "focus": "Covenant and identity",
+          "minutes": "15–20",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Torah — Genesis 17:1–27: Names and covenant",
+              "detail": "15–20 min • Why do Abram and Sarai receive new names? What changes when a personal calling becomes an intergenerational obligation?",
+              "url": "https://www.sefaria.org/Genesis.17.1-27"
+            },
+            {
+              "type": "read",
+              "title": "Preview — Genesis 18:16–33: Abraham speaks up",
+              "detail": "Bridge to Vayera: compare Abraham's argument for Sodom with Noah's silence.",
+              "url": "https://www.sefaria.org/Genesis.18.16-33"
             }
           ]
         }
