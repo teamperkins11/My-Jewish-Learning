@@ -637,7 +637,7 @@
     },
     {
       "id": "week-3-lech-lecha-5787",
-      "current": true,
+      "current": false,
       "label": "Week 3 — Lech Lecha",
       "dates": "October 20–26, 2026",
       "theme": "From Noah's righteousness to Abraham's courage",
@@ -847,6 +847,212 @@
               "title": "Daily Hebrew — שֵׁם (Shem)",
               "detail": "5–10 min • Name. Practice שׁ (shin) and ם (final mem). Read שֵׁם, then compare Abram/Abraham and Sarai/Sarah in Genesis 17:5,15. What changes when a name changes?",
               "url": "https://www.sefaria.org/Genesis.17.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "week-4-vayera-5787",
+      "current": true,
+      "label": "Week 4 — Vayera",
+      "dates": "October 27–November 2, 2026",
+      "theme": "Righteousness that acts: hospitality, justice, and moral courage",
+      "description": "Daily 15–20 minute readings, two direct Rabbi Sacks Apple Podcasts episodes, progressive Hebrew, and a Friday dinner table discussion. Shabbat Vayera is October 31.",
+      "rabbiSacks": {
+        "title": "Vayera essays and Family Editions",
+        "url": "https://rabbisacks.org/covenant-conversation/vayera/"
+      },
+      "days": [
+        {
+          "id": "vayera-2026-10-27",
+          "day": "Tuesday",
+          "date": "10/27",
+          "iso": "2026-10-27",
+          "focus": "Hospitality as active righteousness",
+          "minutes": "Lunch 15–20 • Hebrew 5–10",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Torah — Abraham welcomes strangers (Genesis 18:1–15)",
+              "detail": "15–20 min • Notice Abraham's haste to welcome strangers. How is hospitality an ethical action rather than mere politeness?",
+              "url": "https://www.sefaria.org/Genesis.18.1-15"
+            },
+            {
+              "type": "listen",
+              "title": "Drive — The Miracle of a Child (Rabbi Sacks on Vayera)",
+              "detail": "6 min • Direct Apple Podcasts episode about hope, Sarah, and the promise of a child.",
+              "url": "https://podcasts.apple.com/us/podcast/the-miracle-of-a-child-rabbi-sacks-on/id796183168?i=1000676927104",
+              "platform": "Apple Podcasts"
+            },
+            {
+              "type": "read",
+              "title": "Daily Hebrew — אוֹרֵחַ (Ore'ach)",
+              "detail": "5–10 min • Guest. Practice א, ר, ח; say the word aloud three times. Compare Abraham's treatment of his visitors.",
+              "url": "https://www.sefaria.org/Genesis.18.1-8"
+            }
+          ]
+        },
+        {
+          "id": "vayera-2026-10-28",
+          "day": "Wednesday",
+          "date": "10/28",
+          "iso": "2026-10-28",
+          "focus": "Arguing for justice",
+          "minutes": "Lunch 15–20 • Hebrew 5–10",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Torah — Abraham pleads for Sodom (Genesis 18:16–33)",
+              "detail": "15–20 min • Compare Noah's silence in the narrative with Abraham's negotiation for strangers. What does justice require of a leader?",
+              "url": "https://www.sefaria.org/Genesis.18.16-33"
+            },
+            {
+              "type": "read",
+              "title": "Commentary — Vayera in Reform Jewish study",
+              "detail": "Explore Reform Torah commentary and interpretations of the ethical dilemmas in Vayera.",
+              "url": "https://reformjudaism.org/torah/portion/vayeira"
+            },
+            {
+              "type": "read",
+              "title": "Daily Hebrew — מִשְׁפָּט (Mishpat)",
+              "detail": "5–10 min • Justice / judgment. Find mishpat in Genesis 18:25; practice מ, שׁ, פ, ט and say ha-shofet (the judge).",
+              "url": "https://www.sefaria.org/Genesis.18.25"
+            }
+          ]
+        },
+        {
+          "id": "vayera-2026-10-29",
+          "day": "Thursday",
+          "date": "10/29",
+          "iso": "2026-10-29",
+          "focus": "Moral courage and the limits of obedience",
+          "minutes": "Lunch 15–20 • Hebrew 5–10",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Rabbi Sacks — Vayera: essays and Family Editions",
+              "detail": "15–20 min • Choose the 5787 Family Edition if posted, or another Vayera essay. Consider the balance between justice, compassion, and obedience.",
+              "url": "https://rabbisacks.org/covenant-conversation/vayera/"
+            },
+            {
+              "type": "listen",
+              "title": "Drive — The Binding of Isaac: A New Interpretation",
+              "detail": "13 min • Rabbi Sacks' Vayera podcast. Listen for how he interprets the Akedah and the ethical questions it raises.",
+              "url": "https://podcasts.apple.com/us/podcast/the-binding-of-isaac-a-new-interpretation/id796183168?i=1000633307017",
+              "platform": "Apple Podcasts"
+            },
+            {
+              "type": "read",
+              "title": "Daily Hebrew — צֶדֶק (Tzedek)",
+              "detail": "5–10 min • Justice / righteousness. Practice צ, ד, ק; compare tzedek with mishpat and tzaddik (righteous person).",
+              "url": "https://www.sefaria.org/Genesis.18.19"
+            }
+          ]
+        },
+        {
+          "id": "vayera-2026-10-30",
+          "day": "Friday",
+          "date": "10/30",
+          "iso": "2026-10-30",
+          "focus": "Shabbat: courage to question",
+          "minutes": "Lunch 15–20 • Hebrew 5–10",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Friday dinner — Vayera Shabbat Table Guide",
+              "detail": "Open the dedicated family table reading on hospitality, Abraham's argument for justice, Hagar, and difficult questions about faith. Use Hebrew tab for prayers.",
+              "url": "https://teamperkins11.github.io/My-Jewish-Learning/Vayera_Shabbat_Table_Guide_5787.html"
+            },
+            {
+              "type": "read",
+              "title": "Torah — Shall the Judge of all the earth not do justice?",
+              "detail": "15 min • Genesis 18:23–33. Prepare to discuss when speaking up for others is a moral duty.",
+              "url": "https://www.sefaria.org/Genesis.18.23-33"
+            },
+            {
+              "type": "read",
+              "title": "Daily Hebrew — חֶסֶד (Chesed)",
+              "detail": "5–10 min • Lovingkindness. Practice ח, ס, ד; identify one act of kindness you can offer someone beyond your family.",
+              "url": "https://www.sefaria.org/Psalms.89.3"
+            }
+          ]
+        },
+        {
+          "id": "vayera-2026-10-31",
+          "day": "Saturday",
+          "date": "10/31",
+          "iso": "2026-10-31",
+          "focus": "Shabbat Vayera and Rabbi Sacks' legacy",
+          "minutes": "Lunch 15–20 • Hebrew 5–10",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Full Torah portion — Vayera (Genesis 18:1–22:24)",
+              "detail": "Shabbat reading • Hospitality, Sodom, Sarah, Hagar and Ishmael, and the Akedah.",
+              "url": "https://www.sefaria.org/Genesis.18.1-22.24"
+            },
+            {
+              "type": "read",
+              "title": "Rabbi Sacks — Global Day of Learning 2026",
+              "detail": "20 Cheshvan marks Rabbi Sacks' yahrzeit. Explore this year's resource on identity, values, and responsibility for the future.",
+              "url": "https://rabbisacks.org/global-day-of-learning-2026/"
+            },
+            {
+              "type": "read",
+              "title": "Daily Hebrew — וַיֵּרָא (Vayera)",
+              "detail": "5–10 min • And he appeared. Practice ו, י, ר, א; recognize the Torah portion's opening word.",
+              "url": "https://www.sefaria.org/Genesis.18.1"
+            }
+          ]
+        },
+        {
+          "id": "vayera-2026-11-01",
+          "day": "Sunday",
+          "date": "11/01",
+          "iso": "2026-11-01",
+          "focus": "Seeing Hagar and Ishmael",
+          "minutes": "Lunch 15–20 • Hebrew 5–10",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Torah — Hagar and Ishmael (Genesis 21:8–21)",
+              "detail": "15–20 min • Compare Sarah's concerns, Abraham's response, and God's attention to Hagar and Ishmael. Whose perspective is hardest to hear?",
+              "url": "https://www.sefaria.org/Genesis.21.8-21"
+            },
+            {
+              "type": "read",
+              "title": "Daily Hebrew — שָׁמַע (Shama)",
+              "detail": "5–10 min • He heard. Practice שׁ, מ, ע; connect the root to God hearing Ishmael in Genesis 21:17.",
+              "url": "https://www.sefaria.org/Genesis.21.17"
+            }
+          ]
+        },
+        {
+          "id": "vayera-2026-11-02",
+          "day": "Monday",
+          "date": "11/02",
+          "iso": "2026-11-02",
+          "focus": "The Akedah and difficult faith",
+          "minutes": "Lunch 15–20 • Hebrew 5–10",
+          "tasks": [
+            {
+              "type": "read",
+              "title": "Torah — Binding of Isaac (Genesis 22:1–19)",
+              "detail": "15–20 min • Compare Abraham's protest for Sodom with his actions toward Isaac. Read with the ethical tensions intact.",
+              "url": "https://www.sefaria.org/Genesis.22.1-19"
+            },
+            {
+              "type": "read",
+              "title": "Rabbi Sacks — The Binding of Isaac: A New Interpretation",
+              "detail": "Read a complementary interpretation after Sunday's difficult questions.",
+              "url": "https://rabbisacks.org/covenant-conversation/vayera/binding-of-isaac-new/"
+            },
+            {
+              "type": "read",
+              "title": "Daily Hebrew — הִנֵּנִי (Hineni)",
+              "detail": "5–10 min • Here I am. Practice ה, נ, י; read Abraham's response in Genesis 22:1 and discuss what it means to be present and accountable.",
+              "url": "https://www.sefaria.org/Genesis.22.1"
             }
           ]
         }
